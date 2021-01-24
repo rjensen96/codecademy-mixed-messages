@@ -39,3 +39,5 @@ const getRandomMessage = () => {
 const displayMessage = () => {
     document.getElementById('message').innerHTML = getRandomMessage();
 }
+
+// console.log(getRandomMessage());
