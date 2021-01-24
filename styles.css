@@ -1,0 +1,30 @@
+p {
+    text-align: center;
+    font-size: 14pt;
+    line-height: 35pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(0, 0, 0, .8);
+}
+
+.messageWrapper {
+    min-height: 150px;
+    margin: 0 25vw 0 25vw;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, .07);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.main {
+    margin-top: 25vh;
+}
